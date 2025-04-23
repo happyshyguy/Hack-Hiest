@@ -1,2 +1,3 @@
 Class public{
 }
+print
